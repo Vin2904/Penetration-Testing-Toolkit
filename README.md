@@ -2,15 +2,15 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: CHATAVINAYKUMAR
+**NAME**: CHATA VINAY KUMAR
 
-**INTERN ID**: CTO6DM648
+**INTERN ID**: CT06DM648
 
 **DOMAIN**:CYBER SECURITY & ETHICAL HACKING
 
 **BATCH DURATION**: MAY 10th,2025 to JUNE 25th,2025
 
-**MENTOR NAME**:NEELA SANTHOSH
+**MENTOR NAME**: NEELA SANTHOSH
 
 This repository contains a modular and extensible Penetration Testing Toolkit built with Python. It serves as an all-in-one solution for automating common offensive security tasks, including reconnaissance, vulnerability scanning, brute-forcing, and exploitation testing.
 
